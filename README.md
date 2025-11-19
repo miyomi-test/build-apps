@@ -99,13 +99,3 @@ For complete legal transparency and user safety, please review our comprehensive
 ### For Maximum Transparency
 We encourage users to build from source when possible for complete trust and verification.
 
-### Build Instructions
-```bash
-# Clone the official repository
-git clone https://github.com/keiyoushi/doki.git
-
-# Navigate to project directory
-cd doki
-
-# Follow the build instructions in their README
-# Build with Android Studio or Gradle
