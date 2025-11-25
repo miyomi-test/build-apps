@@ -81,7 +81,7 @@ For complete legal transparency and user safety, please review our comprehensive
 
 <div align="center">
 
-[![Terms of Service](https://img.shields.io/badge/📄_Read_Full_Terms_of_Service-58a6ff?style=for-the-badge)](https://miyomi-tos.netlify.app/)
+[![Terms of Service](https://img.shields.io/badge/📄_Read_Full_Terms_of_Service-58a6ff?style=for-the-badge)](https://miyomi-test.github.io/)
 
 </div>
 
