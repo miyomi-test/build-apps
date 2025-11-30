@@ -11,6 +11,18 @@
 
 ---
 
+## ⚠️ Important Notice: Project Discontinued
+
+**The official Doki team has announced that Doki has been discontinued and development has moved to a new application called "Yukimi".**
+
+As a result:
+- 🛑 **No more support** for Doki app
+- 🛑 **No more updates** for this repository
+- 🛑 **No more maintenance** from original developers
+- 🔄 **Development continues on [Yukimi](https://github.com/YakaTeam/kotatsu-parsers)** (check official channels for new project)
+
+---
+
 ## 📋 About This Repository
 
 This repository is **strictly for educational and build experimentation purposes.**  
@@ -63,14 +75,13 @@ For legal clarity & user responsibility info:
 
 ---
 
-## 🚀 Build From Source (Recommended)
+## 🚀 Build From Source (Educational Only)
 
-If you want to use or test the application:
-**build it yourself using the official source.**
+**Note: This project is discontinued. Building is for educational purposes only.**
 
 ```bash
-# Clone the official source (example)
-git clone https://github.com/<official-doki-source>
+# Clone the source (for educational reference)
+git clone https://github.com/<doki-source>
 
-# Build using Gradle
+# Build using Gradle (for learning purposes)
 ./gradlew assembleDebug
