@@ -5,25 +5,29 @@
 ![Doki Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Doki%20Archived&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn)
 
 [![Archived](https://img.shields.io/badge/Status-Archived-6B7280?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Miyomi](https://img.shields.io/badge/Find%20an%20alternative-miyomi.app-58A6FF?style=for-the-badge&logo=web&logoColor=white)](https://miyomi.app)
+[![Best Alternative](https://img.shields.io/badge/Best%20Alternative-Miyomi-58A6FF?style=for-the-badge&logo=web&logoColor=white)](https://miyomi.app)
 
 </div>
 
 ---
 
-## ⚠️ This Project Is Archived
+## ⚠️ Doki Has Been Archived
 
 > **This repo was archived by the owner on May 11, 2026. It is now read-only.**
 
-Doki is no longer maintained through this repository. There will be no further updates, fixes, releases, or support here.
+Doki is no longer updated or supported through this repository.
 
-## 🌐 Looking for an Alternative?
+## ✨ Looking for the Best Alternative to Doki?
 
-Visit **[miyomi.app](https://miyomi.app)** to explore current Miyomi projects, updates, and available alternatives.
+**Miyomi is the recommended alternative.**
+
+Visit **[miyomi.app](https://miyomi.app)** to download, learn more, and find the latest Miyomi resources.
 
 <div align="center">
 
-[![Visit Miyomi](https://img.shields.io/badge/Visit-miyomi.app-58A6FF?style=for-the-badge&logo=web&logoColor=white)](https://miyomi.app)
+# [🌐 Visit Miyomi.app](https://miyomi.app)
+
+[![Open Miyomi](https://img.shields.io/badge/Go%20to-miyomi.app-58A6FF?style=for-the-badge&logo=web&logoColor=white)](https://miyomi.app)
 
 </div>
 
@@ -31,27 +35,19 @@ Visit **[miyomi.app](https://miyomi.app)** to explore current Miyomi projects, u
 
 ## 📦 About This Repository
 
-This repository is kept for historical and educational reference only.
+This repository remains available as a historical reference only. It will not receive:
 
-It may contain:
+- Updates
+- Bug fixes
+- New releases
+- Support
 
-- Source code and project history
-- Build configuration files
-- Documentation from earlier development
-- Previous experimental workflows
-
-It will no longer receive maintenance or support.
-
----
-
-## 📜 Ownership and Credits
-
-All rights belong to the original Doki developers and contributors. This archived repository does not claim ownership of the original project.
+For an actively maintained alternative, visit **[miyomi.app](https://miyomi.app)**.
 
 ---
 
 <div align="center">
 
-**Archived repository · Visit [miyomi.app](https://miyomi.app) for current alternatives**
+## Doki is archived. Continue with [Miyomi →](https://miyomi.app)
 
 </div>
