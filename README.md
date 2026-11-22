@@ -1,87 +1,57 @@
-# Doki – Educational Build Repository
+# Doki — Archived
 
 <div align="center">
 
-![Doki Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Doki%20Build%20Tests&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn)
+![Doki Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Doki%20Archived&fontSize=40&fontAlign=50&fontAlignY=50&animation=fadeIn)
 
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
+[![Archived](https://img.shields.io/badge/Status-Archived-6B7280?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Miyomi](https://img.shields.io/badge/Find%20an%20alternative-miyomi.app-58A6FF?style=for-the-badge&logo=web&logoColor=white)](https://miyomi.app)
 
 </div>
 
 ---
 
-## ⚠️ Important Notice: Project Discontinued
+## ⚠️ This Project Is Archived
 
-**The official Doki team has announced that Doki has been discontinued and development has moved to a new application called "Yukimi".**
+> **This repo was archived by the owner on May 11, 2026. It is now read-only.**
 
-As a result:
-- 🛑 **No more support** for Doki app
-- 🛑 **No more updates** for this repository
-- 🛑 **No more maintenance** from original developers
-- 🔄 **Development continues on [Yukimi](https://github.com/YakaTeam/kotatsu-parsers)** (check official channels for new project)
+Doki is no longer maintained through this repository. There will be no further updates, fixes, releases, or support here.
 
----
+## 🌐 Looking for an Alternative?
 
-## 📋 About This Repository
-
-This repository is **strictly for educational and build experimentation purposes.**  
-It does **not** provide any compiled APKs, binaries, or ready-to-install apps.
-
-It exists only to:
-- 🧠 Study open-source building methods  
-- 🧪 Test configurations & CI/CD  
-- 📂 Explore Android project structures  
-- 🛠️ Learn how to compile from source  
-
----
-
-## 🔍 What This Repo Contains
-✔️ Build scripts & configuration tests  
-✔️ Experimental workflows (CI/CD)  
-✔️ Educational notes for compilation  
-✔️ Public source code references only  
-
-❌ **No binaries**  
-❌ **No APK downloads**  
-❌ **No direct distribution**  
-❌ **No installation guides**  
-
----
-
-## ⚠️ Legal & Ownership
-
-All rights belong to the **original Doki developers**.  
-This repository:
-- Does **not** claim ownership  
-- Does **not** distribute compiled apps  
-- Is **not affiliated** with the original project  
-- Exists only to **learn from open-source software**  
-
----
-
-## 🛡️ Safety & Transparency
-
-⚠️ **No manga or copyrighted content is hosted here.**  
-This repository is **only code-based experimentation** — nothing executable is provided.
-
-For legal clarity & user responsibility info:
+Visit **[miyomi.app](https://miyomi.app)** to explore current Miyomi projects, updates, and available alternatives.
 
 <div align="center">
 
-[![Terms of Service](https://img.shields.io/badge/📄_Read_Terms_of_Service-58a6ff?style=for-the-badge)](https://miyomi-test.github.io/)
+[![Visit Miyomi](https://img.shields.io/badge/Visit-miyomi.app-58A6FF?style=for-the-badge&logo=web&logoColor=white)](https://miyomi.app)
 
 </div>
 
 ---
 
-## 🚀 Build From Source (Educational Only)
+## 📦 About This Repository
 
-**Note: This project is discontinued. Building is for educational purposes only.**
+This repository is kept for historical and educational reference only.
 
-```bash
-# Clone the source (for educational reference)
-git clone https://github.com/<doki-source>
+It may contain:
 
-# Build using Gradle (for learning purposes)
-./gradlew assembleDebug
+- Source code and project history
+- Build configuration files
+- Documentation from earlier development
+- Previous experimental workflows
+
+It will no longer receive maintenance or support.
+
+---
+
+## 📜 Ownership and Credits
+
+All rights belong to the original Doki developers and contributors. This archived repository does not claim ownership of the original project.
+
+---
+
+<div align="center">
+
+**Archived repository · Visit [miyomi.app](https://miyomi.app) for current alternatives**
+
+</div>
